@@ -1,0 +1,21 @@
+body {
+	background: #E0E4CC;
+	color: #F38630;
+	font-family: helvetica,arial,sans-serif;
+	padding: 40px;
+}
+
+h1 {
+	color: #69D2E7;
+}
+h2 {
+	color: #FA6900;
+}
+
+a,
+a:visited {
+	color: #FA6900;
+}
+a:hover {
+	color: #F38630;
+}
