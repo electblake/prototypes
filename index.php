@@ -16,6 +16,7 @@
 	<h1>Locus New Media - Prototypes</h1>
 	<ul>
 		<li><a href="<?php print base_path(); ?>parallax">Parallax Prototype</a></li>
+		<li><a href="<?php print base_path(); ?>scroll-step-animation">Animation Step by Scrolling Prototype</a></li>
 	</ul>
 </body>
 </html>

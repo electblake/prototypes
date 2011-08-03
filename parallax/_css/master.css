@@ -1,0 +1,66 @@
+body {
+	background: #eeeeee;
+	margin: 0px;
+	padding: 0px;
+}
+#header {
+	min-width: 960px;
+	overflow: hidden;
+	width: 100%;	
+}
+#footer {
+	-webkit-border-radius: 8px;
+	-moz-border-radius: 8px;
+	background: #efefef;
+	border: 1px solid #ccc;
+}
+#parts {
+	position: relative;
+	width: 920px;
+	margin: auto;
+	height: 950px;
+}
+#parts img {
+	position: absolute;
+}
+
+#monster_green {
+	margin-top: 0px;
+	margin-left: 400px;
+}
+
+#monster_orange {
+	margin-top: 200px;
+	margin-left: 300px;
+}
+#monster_pink {
+	margin-top: 200px;
+	margin-left: 489px;
+}
+
+#monster_purple {
+	margin-top: 400px;
+	margin-left: 209px;
+}
+#monster_grey {
+	margin-top: 400px;
+	margin-left: 582px;
+}
+#monster_teal {
+	margin-top: 400px;
+	margin-left: 388px;
+}
+
+#monster_blue {
+	margin-top: 600px;
+	margin-left: 489px;	
+}
+#monster_brown {
+	margin-top: 600px;
+	margin-left: 300px;
+}
+
+#monster_black {
+	margin-top: 800px;
+	margin-left: 388px;
+}

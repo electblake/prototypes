@@ -1,0 +1,25 @@
+body {
+	background: #eeeeee;
+	margin: 0px;
+	padding: 0px;
+}
+#site {
+	height: 2400px;
+	width: 960px;
+	margin: auto;
+}
+#header {
+	min-width: 960px;
+	overflow: hidden;
+	width: 100%;	
+}
+#footer {
+	-webkit-border-radius: 8px;
+	-moz-border-radius: 8px;
+	background: #efefef;
+	border: 1px solid #ccc;
+}
+
+section {
+	margin-bottom: 500px;
+}

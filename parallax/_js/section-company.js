@@ -147,7 +147,7 @@
     };
     
     $(function() {
-        if ($('body').hasClass('home')) {
+        if ($('section#company').get(0)){
             $('#footer').css({
                 height: $('#footer').height() + 'px'
             });
